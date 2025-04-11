@@ -1,0 +1,5 @@
+torch
+torchvision
+PyYAML
+opencv-python
+numpy
